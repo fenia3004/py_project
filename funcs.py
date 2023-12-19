@@ -1,2 +1,5 @@
-print(2+2)
-print(2-2)
+def plus():
+    print(2+2)
+
+def minus():
+    print(2-2)
